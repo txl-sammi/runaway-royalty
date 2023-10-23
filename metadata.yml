@@ -1,0 +1,31 @@
+# Fill out all team + team member details below by replacing the content of the
+# respective strings. This file is parsed by our autograding software, so ensure
+# that you only replace the placeholder text, not the keys (e.g. TeamName, etc.)
+
+# 1. Your team's GitHub repository URL for project 2 (*not* project 1)
+RepoURL: https://github.com/COMP30019/project-2-kfcvme50
+
+# 2. Since you are working in the same team for project 2, you should copy the
+#    below keys/values *verbatim* from your project 1 metadata.yml -- do not
+#    change them unless you have permission from the teaching team.
+TeamName: KFCVME50
+TeamMembers:
+  - Name: Ting Xin Li
+    Email: tingxin@student.unimelb.edu.au
+  - Name: Yu Ying Ke
+    Email: yuyingk@student.unimelb.edu.au
+  - Name: Rosa Yan
+    Email: yanrr@student.unimelb.edu.au
+  - Name: Sylvia Chen
+    Email: yuyichen2@student.unimelb.edu.au
+
+# 3. The below keys must be filled out by the given milestone deadlines, and
+#    you must also re-submit on Gradescope to register these changes officially
+#    (like in project 1). Read the specification for details.
+
+# Milestone 1 entries
+GameTitle: Happily Ever After (Runaway Royalty)
+GameBlurb: Inspired by Unrailed, Happily Ever After (Runaway Royalty) is a isometric 3D survival RPG targetted to 12-30 aged casual players. The core concept involves the knight (player) escorting the royal princess to the gate of happiness within 5 minutes. Our lovely princess married the prince of a neighbouring country. But to her surprise, the prince is a complete evil! He wants to suck the princess’s blood to gain eternal youth! Definitely not willing to wait for death, our princess runs away from the prince and uses the only money she has left to hire a knight to escort her - that is, the player. Players have multiple tasks, including maintaining princesses, carriage and horses, fighting monsters, cleaning or building roads, avoiding natural disasters. The princess doesn’t have much money left, so the carriage she finds is very easy to break down, and the horse she finds is very lazy and is a big eater. During the journey, the player needs to keep an eye on them and fix the carriage or feed the horse in time. If all goes well and the player and princess survive after 5 minutes, the player will be rewarded.
+
+# Milestone 2 entries
+GameplayVideo: <https://youtu.be/lWarM5sdGNA?si=efiIZM3ourWnIKnC>
